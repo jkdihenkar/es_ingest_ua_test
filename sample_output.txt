@@ -1,0 +1,188 @@
+uuid: fc371ae8-87ab-4682-923e-853c99ccb340 | parsed_ua: Chrome Mobile v 58.0 on dev XT1585 os Android 7.0
+uuid: 4a52361e-db15-49d3-b06a-b1e0a249cda9 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung $2 os Android 7.0
+uuid: bc6eeffd-f8f3-40b4-8f89-8d943105ff25 | parsed_ua: Chrome v 58.0 on dev Other os Mac OS X 10.12.4
+uuid: 1c9d5dfd-5cae-42ce-aa06-5c06189d75dd | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: ab128f95-88e1-412d-a67c-4fdbaa177d56 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung $2 os Android 6.0.1
+uuid: 4f4c013e-e90c-4a7e-81fa-c6ae700bc956 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 62426b63-ffcc-4625-a719-cb6b02273c2c | parsed_ua: Edge v 14.14393 on dev Other os Windows 10
+uuid: 5a0c2abe-2e0f-4abf-aa35-88528b84063c | parsed_ua: Mobile Safari v 10.0 on dev iPad os iOS 10.2.1
+uuid: c4ad7d20-d321-4cac-a8ea-76b1032802bb | parsed_ua: Chrome Mobile v 58.0 on dev Samsung SM-G935V os Android 7.0
+uuid: fc371ae8-87ab-4682-923e-853c99ccb340 | parsed_ua: Chrome Mobile v 58.0 on dev XT1585 os Android 7.0
+uuid: 1cc7eabf-3a3b-43b7-8564-9e4def7b1aea | parsed_ua: Chrome Mobile v 58.0 on dev Samsung SM-G900V os Android 6.0.1
+uuid: 44406019-acfb-488c-81d5-39b9a95e3875 | parsed_ua: Chrome v 58.0 on dev Other os Windows 10
+uuid: fa684dea-9991-4847-a79b-4cfa101dbda8 | parsed_ua: Chrome Mobile v 47.0 on dev Samsung SM-S920L os Android 5.0.2
+uuid: bef3cf41-b9fb-4bcd-9daf-8f52c1832719 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: b7c7f982-8e29-4825-936e-0b33bd0832de | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 4a52361e-db15-49d3-b06a-b1e0a249cda9 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung $2 os Android 7.0
+uuid: 1f99e5c9-bf4b-48bc-9efc-feafe7a3efc7 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 6c889293-65e6-4c63-bb06-76b896305650 | parsed_ua: Samsung Internet v 4.0 on dev Samsung $2 os Android 5.0.1
+uuid: 5e9245a4-6241-43d5-b7cf-1415fe72b824 | parsed_ua: Chrome Mobile iOS v 58.0 on dev iPhone os iOS 10.3.1
+uuid: 91919137-830e-4bcd-a47f-835f69e0736c | parsed_ua: Chrome v 58.0 on dev Other os Windows 10
+uuid: 5a0c2abe-2e0f-4abf-aa35-88528b84063c | parsed_ua: Mobile Safari v 10.0 on dev iPad os iOS 10.2.1
+uuid: eceb291b-0798-4125-a8fa-f3f53c161072 | parsed_ua: Mobile Safari v 10.0 on dev iPad os iOS 10.3.1
+uuid: 747f4684-1d09-440c-9f13-d6a21f28eb13 | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: 1fc9f58e-5215-4786-87b5-e7928230ddfa | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: 1f99e5c9-bf4b-48bc-9efc-feafe7a3efc7 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 613720fb-6833-441b-a9db-fed1c36c2c77 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: ac5508b0-7f11-419a-9e7a-af166f467089 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 5c0bcc8c-734f-4df9-a67b-49a4c461f022 | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: f91b32a6-1bd3-4807-8cdf-7a012a27cbfc | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 67f9027f-fb52-4b19-b9ac-a7b5fbeef922 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 5a0c2abe-2e0f-4abf-aa35-88528b84063c | parsed_ua: Mobile Safari v 10.0 on dev iPad os iOS 10.2.1
+uuid: 613720fb-6833-441b-a9db-fed1c36c2c77 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 44406019-acfb-488c-81d5-39b9a95e3875 | parsed_ua: Chrome v 58.0 on dev Other os Windows 10
+uuid: b6e4013e-2edb-49fb-aefa-bd58ddae8f18 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: ac5508b0-7f11-419a-9e7a-af166f467089 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 28face97-0dd7-49f7-ba5f-0ea04ae68bc1 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 5e293ba5-f539-4865-816d-b7dc72384c80 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 890a76de-839c-477c-a2d6-5b7430dd7d69 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 5e293ba5-f539-4865-816d-b7dc72384c80 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 6f2f8853-8264-4cea-921e-6cd5f8d36a40 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 1a3b3137-390d-4d7c-93f8-73ed71ab8ee0 | parsed_ua: Safari v 10.1 on dev Other os Mac OS X 10.11.6
+uuid: 707919af-e0a5-4fc4-bc9e-ef984b1bb939 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 68f4622d-95a3-4936-a78b-63423b24004a | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: e3b3ca8c-3278-4dd0-ab4c-cc3202b39f75 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: 1c4ca3a3-1ed0-44fd-ad81-ca8024232c37 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 6c889293-65e6-4c63-bb06-76b896305650 | parsed_ua: Samsung Internet v 4.0 on dev Samsung $2 os Android 5.0.1
+uuid: 643fb3ad-3e67-46c5-9176-496b197e7569 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: e60f8918-a020-4088-a12e-786af9ae48fd | parsed_ua: Firefox v 52.0 on dev Other os Windows Vista
+uuid: ac5508b0-7f11-419a-9e7a-af166f467089 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 613720fb-6833-441b-a9db-fed1c36c2c77 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: f673972f-1a8c-46c0-870d-a4c51f8768ac | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: uuid | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: be30036b-8523-4a38-9eb6-0c2819495b94 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: daff0cc7-9224-4645-9e58-6035ed7f982a | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 2a246ecb-391d-42e7-ae87-f0a842bf0c2c | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: f673972f-1a8c-46c0-870d-a4c51f8768ac | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 9fd42a34-3548-4b82-a2f2-2e4d7793ea04 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung $2 os Android 5.0.1
+uuid: 9fd42a34-3548-4b82-a2f2-2e4d7793ea04 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 1f99e5c9-bf4b-48bc-9efc-feafe7a3efc7 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: d7f25073-b5f8-4b99-862f-c23fc2420b0a | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: f673972f-1a8c-46c0-870d-a4c51f8768ac | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: cc512672-dce2-42ac-a5da-48da5f7e95e4 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: fc371ae8-87ab-4682-923e-853c99ccb340 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: d4470452-adf4-4604-81fa-5ddf03eb097b | parsed_ua: Mobile Safari v 9.0 on dev iPad os iOS 9.3.5
+uuid: 4440de1d-6515-4cd3-9474-b721090dbfe9 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung SM-N920R4 os Android 6.0.1
+uuid: c8b96176-2dab-4cc9-8234-ca0714364cb3 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 5486e760-9925-47a4-a83b-572544acd11b | parsed_ua: Chrome v 58.0 on dev RCT6873W42 os Android 6.0.1
+uuid: 42d21600-ab6f-498f-8bce-e1bb98a44936 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: ac5508b0-7f11-419a-9e7a-af166f467089 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 1481beab-be3f-4ed9-8b6b-5eb7929d0657 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: c8b96176-2dab-4cc9-8234-ca0714364cb3 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 4440de1d-6515-4cd3-9474-b721090dbfe9 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 78d9a5ce-a2ba-4012-a6ca-bc1e81b71a81 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 29ba8a45-392f-4034-abec-3f33d198fc1d | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: fcf30928-e5a3-46fe-a528-3d72c97dad82 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.2.1
+uuid: 0f89d52c-83e2-492c-9826-649d70168d9e | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: fd1225fd-ed62-4aa0-bf7b-3ebd73a5d452 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: daff0cc7-9224-4645-9e58-6035ed7f982a | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 67d8251e-ae18-4091-8009-db71ef4aa0b1 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 3bd4ff35-aaf8-42cb-abec-5ad39d6e7ac0 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 6635924e-23e0-4297-b3ff-2dc7110c482e | parsed_ua: Chrome Mobile v 55.0 on dev Samsung SM-J320P os Android 5.1.1
+uuid: 643fb3ad-3e67-46c5-9176-496b197e7569 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 1de222e4-577a-48bf-bca6-bf78b1a40bbe | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 6556da41-2b55-4e84-b236-9d28227ecc02 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 1edd8bbf-3d67-46f8-9652-3e5309e9da36 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: c0e3dbb3-f40c-4b26-9293-067cb6a31777 | parsed_ua: Chrome v 58.0 on dev Other os Mac OS X 10.12.3
+uuid: dbdfe0d7-3333-45f9-9a55-f1a9a3f71d68 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: bef3cf41-b9fb-4bcd-9daf-8f52c1832719 | parsed_ua: Chrome v 58.0 on dev Samsung SM-P600 os Android 5.1.1
+uuid: ab128f95-88e1-412d-a67c-4fdbaa177d56 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung $2 os Android 6.0.1
+uuid: 63d1233c-9cea-453d-8494-6e9fbef91c34 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: 05ba927b-47a0-48c9-ad2d-36d2174468e2 | parsed_ua: Chrome v 57.0 on dev Other os Windows 10
+uuid: 37f9cfed-6f9f-48e9-a255-91d782ddb2d9 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 95c77f7d-4026-4523-8b01-3554e34ebe33 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 5e9245a4-6241-43d5-b7cf-1415fe72b824 | parsed_ua: Chrome Mobile iOS v 58.0 on dev iPhone os iOS 10.3.1
+uuid: da1f7efe-645e-46a9-9952-ecbf58c3d391 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 642d3767-c905-4904-9150-7a868f87e409 | parsed_ua: Chrome Mobile v 58.0 on dev VS990  os Android 6.0
+uuid: da1f7efe-645e-46a9-9952-ecbf58c3d391 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: adeff5b8-2836-4d37-93d9-45cc48c6730c | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: f90d8818-3aa8-4dfc-9057-607e0448e089 | parsed_ua: Firefox v 53.0 on dev Other os Windows 10
+uuid: da1f7efe-645e-46a9-9952-ecbf58c3d391 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: daff0cc7-9224-4645-9e58-6035ed7f982a | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 0aa2a20a-2a67-43b6-a0c6-667d76aa037a | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 5da0a79f-ad54-49ff-92fa-8d0ef72662bc | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 5c85981e-93db-42d2-995c-f0880dd22be2 | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: 1a172bc1-c93a-489d-a686-08790535868d | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 09d024f0-2714-4be3-b131-e3942af4d257 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: b8073fd5-7577-4a52-908c-bb94630450e5 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: e8f8ba12-7871-4d0a-a7f3-cc6144964f17 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: c9646a64-bf05-47ae-916d-96254f3268c4 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.2.1
+uuid: bef3cf41-b9fb-4bcd-9daf-8f52c1832719 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: f90d8818-3aa8-4dfc-9057-607e0448e089 | parsed_ua: Firefox v 53.0 on dev Other os Windows 10
+uuid: bd9a0f4c-c2e7-441d-88b3-4238d39becfd | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 74071cac-bfaa-43b2-8e54-86c724550616 | parsed_ua: Firefox v 53.0 on dev Other os Windows 8.1
+uuid: 44406019-acfb-488c-81d5-39b9a95e3875 | parsed_ua: Chrome v 58.0 on dev Other os Windows 10
+uuid: b9da6fb4-d4a6-4381-968e-5d27f875d16a | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 2f036843-7498-4a95-9e83-d19dc0a3b4d2 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 04fe5b63-fa62-42f7-a4ff-42a48795cf3d | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: c2f8356a-69fb-4958-b809-d8a3c6283ddf | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 44406019-acfb-488c-81d5-39b9a95e3875 | parsed_ua: Chrome v 58.0 on dev Other os Windows 10
+uuid: 586700ff-c7d2-41f6-8389-0f78806fa028 | parsed_ua: Chrome v 57.0 on dev Other os Chrome OS 9202.64.0
+uuid: deeb2c56-b273-4739-855a-bd7147125de2 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 8f992353-6662-49b8-a776-306ced522d11 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: c2f8356a-69fb-4958-b809-d8a3c6283ddf | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: da1f7efe-645e-46a9-9952-ecbf58c3d391 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 8bb7e89d-5d5c-4dd7-82b5-3c5c5500cbc3 | parsed_ua: Chrome Mobile v 58.0 on dev Moto $2 os Android 6.0.1
+uuid: f90d8818-3aa8-4dfc-9057-607e0448e089 | parsed_ua: Firefox v 53.0 on dev Other os Windows 10
+uuid: 1f99e5c9-bf4b-48bc-9efc-feafe7a3efc7 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: fe6fef8b-1d95-47c0-9f2d-e0b1b13d8c8c | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 81712798-352d-4f02-84e1-16745cb308bb | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 8048c967-42e9-4938-9c21-1c5d4618d7f9 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: adeff5b8-2836-4d37-93d9-45cc48c6730c | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: 1678a800-2ba1-4d9f-aa17-4099c1d2d156 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 4a52361e-db15-49d3-b06a-b1e0a249cda9 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 31c3905f-2acd-41b3-ba38-3757d2132a45 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: aa827ac9-3d42-455b-968e-dba74581ac70 | parsed_ua: Chrome v 57.0 on dev Other os Windows 7
+uuid: 5f31669a-4880-4a3a-9223-ac21645c17a9 | parsed_ua: Chrome Mobile v 58.0 on dev Samsung SM-G920V os Android 7.0
+uuid: 586700ff-c7d2-41f6-8389-0f78806fa028 | parsed_ua: Chrome v 57.0 on dev Other os Chrome OS 9202.64.0
+uuid: 3430fb0d-626d-47f5-a001-5b90aa3a1248 | parsed_ua: Chrome v 57.0 on dev Other os Windows 7
+uuid: 63d1233c-9cea-453d-8494-6e9fbef91c34 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: dddd037a-7fea-4468-b1df-7cf7d5810094 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: 520e2a06-4ef2-4d4d-aebc-b2cec444de78 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.2
+uuid: cb257fc3-4790-4504-9dec-be28fdc7fd25 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 6635924e-23e0-4297-b3ff-2dc7110c482e | parsed_ua: Chrome Mobile v 55.0 on dev Samsung SM-J320P os Android 5.1.1
+uuid: deeb2c56-b273-4739-855a-bd7147125de2 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 9790d927-61df-456e-948b-ff40e726c7c2 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 739953e7-9755-4787-ba31-e4c65b84ef38 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 049c099a-6df7-481f-9012-a0d20f236c53 | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: e3aa4818-dcf4-4695-ae5d-eedfba50ff3b | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 707919af-e0a5-4fc4-bc9e-ef984b1bb939 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 1cc7eabf-3a3b-43b7-8564-9e4def7b1aea | parsed_ua: Chrome Mobile v 58.0 on dev Samsung SM-G900V os Android 6.0.1
+uuid: d37de1f1-549a-43f4-96c6-d8f65860db2e | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 410c0262-8404-4fc0-b901-4bdb48f710f8 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 24b18a9f-1b30-438a-8c0f-4fa72afa8964 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: c9d811c5-a34c-4d58-ad64-d232bdeda9d4 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: d4470452-adf4-4604-81fa-5ddf03eb097b | parsed_ua: Mobile Safari v 9.0 on dev iPad os iOS 9.3.5
+uuid: 664e3406-f426-4dbd-a7b0-38371ef30443 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 1481beab-be3f-4ed9-8b6b-5eb7929d0657 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: b4373f06-453e-46d2-b5c8-23c17238dbb2 | parsed_ua: Chrome v 57.0 on dev Other os Windows 10
+uuid: c16cccae-ecad-4b75-bb43-37fcb8f26322 | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: 938d27c4-d52c-48a2-9e14-55e6de26b480 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 8d98aa10-dc8d-4c58-b372-5502a361db45 | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: 96560128-1568-41b2-8d21-452207f39f9e | parsed_ua: Chrome Mobile v 55.0 on dev Samsung SM-J700T os Android 6.0.1
+uuid: f5960792-0ea2-47da-9503-e72b71bf2902 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: e0591176-6f69-4efb-a0b1-088c5a743a38 | parsed_ua: Samsung Internet v 5.0 on dev Samsung $2 os Android 7.0
+uuid: e29296eb-1023-4687-a703-b37f424385d6 | parsed_ua: Edge v 14.14393 on dev Other os Windows 10
+uuid: e29296eb-1023-4687-a703-b37f424385d6 | parsed_ua: Edge v 14.14393 on dev Other os Windows 10
+uuid: 4d117f99-0d67-4b5b-8e05-12b6be0f53f0 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: c8b96176-2dab-4cc9-8234-ca0714364cb3 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 67424d6d-721f-44df-af63-43d4745af110 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: b4467427-ee10-45ba-8392-716401ee0f37 | parsed_ua: IE v 11.0 on dev Other os Windows 10
+uuid: fd845c26-16b4-42c9-88f4-de61384d7e29 | parsed_ua: Mobile Safari v 10.0 on dev iPhone os iOS 10.3.1
+uuid: c8b96176-2dab-4cc9-8234-ca0714364cb3 | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: fc371ae8-87ab-4682-923e-853c99ccb340 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: ee59680b-8cfe-46d7-9e56-1ad3ebb60f7c | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: c2f8356a-69fb-4958-b809-d8a3c6283ddf | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 74071cac-bfaa-43b2-8e54-86c724550616 | parsed_ua: Firefox v 53.0 on dev Other os Windows 8.1
+uuid: 62426b63-ffcc-4625-a719-cb6b02273c2c | parsed_ua: Edge v 14.14393 on dev Other os Windows 10
+uuid: e3aa4818-dcf4-4695-ae5d-eedfba50ff3b | parsed_ua: Firefox v 45.0 on dev Other os Linux
+uuid: 0f561aad-730b-44f0-8081-da28a329972f | parsed_ua: Chrome v 58.0 on dev Other os Windows 7
+uuid: 322ee79d-fe75-4c2d-bcae-680420defd23 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: f7cc1cc9-b94f-45e3-b0b8-0f53906723f7 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 687d88c5-5543-4e07-b822-3d423552c63a | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 8f992353-6662-49b8-a776-306ced522d11 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 9d0f7b3c-2b75-4af2-88af-8c98bb0b729b | parsed_ua: Firefox v 53.0 on dev Other os Windows 7
+uuid: 4440de1d-6515-4cd3-9474-b721090dbfe9 | parsed_ua: {'os': 'Other', 'name': 'Other', 'os_name': 'Other', 'device': 'Other'}
+uuid: 5e293ba5-f539-4865-816d-b7dc72384c80 | parsed_ua: IE v 11.0 on dev Other os Windows 7
+uuid: 6f6b24c3-b011-4dad-bcac-aea79f6f1d7e | parsed_ua: Chrome Mobile iOS v 58.0 on dev iPhone os iOS 10.3.1
+uuid: 1fc9f58e-5215-4786-87b5-e7928230ddfa | parsed_ua: IE v 11.0 on dev Other os Windows 10

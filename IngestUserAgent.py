@@ -5,6 +5,7 @@ import sys
 import logging
 import json
 import elasticsearch
+import elasticsearch.helpers as ESHelper
 
 
 class IngestUserAgent():
@@ -80,8 +81,27 @@ class IngestUserAgent():
             return None
 
 
+    def load_all_elements(self):
+        all_doc_search = ESHelper.scan(
+            self.es,
+            index='test_ingest_pipeline'
+        )
+
+        for docs in all_doc_search:
+            try:
+                pretty_browser = "{name} v {major}.{minor} on dev {device} os {os}".format(
+                    **docs['_source']['user_agent']
+                )
+            except:
+                pretty_browser = "{}".format(docs['_source']['user_agent'])
+            print("uuid: {} | parsed_ua: {}".format(
+                docs['_source']['uuid'],
+                pretty_browser
+            ))
+
 if __name__ == '__main__':
     script = IngestUserAgent()
     script.connect_to_es()
     script.load_ingest_pipeline('detect_browser', 'ingest_pipeline_ua.json')
     script.load_test_data('sample_dataset')
+    script.load_all_elements()
